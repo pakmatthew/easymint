@@ -1,0 +1,2 @@
+# easymint
+EasyMint website
